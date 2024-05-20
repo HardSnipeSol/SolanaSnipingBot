@@ -2,7 +2,7 @@ Is a sniper bot profitable?
 
 It depends. 
 
-For contacts: telegram: https://t.me/mentortoad
+If you are interested in buying the bot contact me on: Telegram: https://t.me/mentortoad
 
 Are you sniping newly launched tokens, are they with locked liquidity/burned or you are copytrading?
 

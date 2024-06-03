@@ -98,7 +98,7 @@ It will buy only when new pool is open for trading. If you want to buy token tha
 
 ## CONTACT
 For full version message me on: 
-- Telegram: [devsharplabs](https://t.me/devsharplabs) or
+- Telegram: [devsharplabs](https://t.me/devsharplabs)
 - Discord: `@devsharplabs` or user id: (782226818441936906)
 - Server: https://discord.gg/3G2Hd2ePuz
 
